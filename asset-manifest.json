@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RitwikShaw27/TextUtils-FirstReactApp/static/css/main.0385f92f.chunk.css",
+    "main.js": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/main.da965515.chunk.js",
+    "main.js.map": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/main.da965515.chunk.js.map",
+    "runtime-main.js": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/runtime-main.bdd58220.js",
+    "runtime-main.js.map": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/runtime-main.bdd58220.js.map",
+    "static/js/2.b0c0c084.chunk.js": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/2.b0c0c084.chunk.js",
+    "static/js/2.b0c0c084.chunk.js.map": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/2.b0c0c084.chunk.js.map",
+    "static/js/3.19cc99f8.chunk.js": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/3.19cc99f8.chunk.js",
+    "static/js/3.19cc99f8.chunk.js.map": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/3.19cc99f8.chunk.js.map",
+    "index.html": "/RitwikShaw27/TextUtils-FirstReactApp/index.html",
+    "static/css/main.0385f92f.chunk.css.map": "/RitwikShaw27/TextUtils-FirstReactApp/static/css/main.0385f92f.chunk.css.map",
+    "static/js/2.b0c0c084.chunk.js.LICENSE.txt": "/RitwikShaw27/TextUtils-FirstReactApp/static/js/2.b0c0c084.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd58220.js",
+    "static/js/2.b0c0c084.chunk.js",
+    "static/css/main.0385f92f.chunk.css",
+    "static/js/main.da965515.chunk.js"
+  ]
+}
