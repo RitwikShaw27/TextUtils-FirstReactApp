@@ -6,7 +6,7 @@ import TextForm from "./components/TextForm";
 import React, { useState } from 'react'
 import Alert from "./components/Alert";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
@@ -56,7 +56,7 @@ function App() {
       <div className="container my-3">
         <Switch>
             <Route exact path="/about">
-              <About />
+              <About mode={mode}/>
             </Route>            
             <Route exact path="/">
               <TextForm showAlert={showAlert} heading="Enter the text to analyse below:" mode={mode}/>              
